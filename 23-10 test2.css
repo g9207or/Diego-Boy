@@ -1,0 +1,26 @@
+div{text-align:center;}
+#red{color:red}
+#Green{color:Green}
+#Yellow{color:Yellow}
+#blue{color:blue}
+#ul{
+  display: inline-block;
+  text-align: left;
+}
+#white{color:White; 
+display: inline-blobk;  
+width: 40px;
+height: 20px;
+padding: 2px;
+border: 1px ;    
+background-color: black;
+text-align: left;
+}
+
+img{ width: 400px;
+border: 2px solid purple} 
+
+body{background-color:#00bfff}
+
+h1{text-align: center}
+	a{color: red}
